@@ -1,4 +1,10 @@
----
-title: Welcome to my blog
----
+# PORTFOLIO
+###    AYUSHI PAL
+
+#### Hello there!
+This is ayushi pal, currently a first year BTECH student at RGIPT,AMETHI,INDIA!
+I am doing my BTECH IN COMPUTER SCIENCE AND DESIGN ENGINEERING!
+SKILLS: C,C++,PYTHON,MATLAB,AUTOCAD,IMAGE EDITING,VIDEO EDITING
+
+
 
